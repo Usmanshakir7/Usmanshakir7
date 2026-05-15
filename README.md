@@ -1,33 +1,55 @@
-# Hi, I'm Usman Shakir 👋
+# Hi 👋 I'm Usman Shakir
 
-🎓 **BS Data Science** @ Dawood University of Engineering & Technology, Karachi 
-🌱 Currently learning Machine Learning & Deep Learning 
-💻 Learning Python, SQL, Data Analysis, and AI   
+🎓 BS Data Science Student at Dawood University of Engineering & Technology, Karachi  
 🚀 Data Science & Analytics Intern at DevelopersHub Corporation  
-💡 Interested in AI, Data Science, and Educational Technology
-🌱 Currently improving my ML and GitHub skills  
+🌱 Currently learning Machine Learning & Deep Learning  
+💻 Passionate about Python, SQL, Data Analysis, and AI  
+💡 Interested in AI, Data Science, and Educational Technology  
 
 ---
 
 ## 🛠️ Skills & Tools
 
+### 💻 Languages
+- Python
+- C++
+- HTML
+- CSS
 
-languages  = ['Python', 'HTML', 'CSS','c++']  
-libraries  = ['Pandas', 'NumPy', 'Matplotlib', 'Scikit-learn', 'Seaborn']  
-concepts   = ['Machine Learning', 'Data Analysis', 'EDA' ,'Data visualization']  
-tools      = ['Jupyter Notebook', 'Colab', 'VS Code', 'Spyder'] 
+### 📚 Libraries & Frameworks
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Seaborn
+
+### 📊 Concepts
+- Machine Learning
+- Data Analysis
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+
+### ⚙️ Tools & Platforms
+- Jupyter Notebook
+- Google Colab
+- VS Code
+- Spyder
+- Git & GitHub
 
 ---
 
-
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Usman_Shakir-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/usman-shakir7/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Usmanshakir7-181717?style=flat&logo=github)](https://github.com/Usmanshakir7)
+## 📈 Currently Working On
+- Machine Learning Projects
+- Deep Learning Basics
+- Data Visualization Projects
+- Building My Developer Portfolio
 
 ---
 
-*"Data is the new oil — and I'm learning to refine it."*
+## 📫 Connect With Me
+- LinkedIn: [Add Your LinkedIn Link]
+- GitHub: https://github.com/Usmanshakir7
+
+---
+
+⭐ “Data is the new oil — and I’m learning how to refine it.”
