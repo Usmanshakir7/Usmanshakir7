@@ -47,7 +47,7 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [Add Your LinkedIn Link]
+- LinkedIn: https://www.linkedin.com/in/usman-shakir7/
 - GitHub: https://github.com/Usmanshakir7
 
 ---
