@@ -1,7 +1,9 @@
 # Hi, I'm Usman Shakir 👋
 
 🎓 **BS Data Science** @ Dawood University of Engineering & Technology, Karachi
+
 🌱 Currently learning Machine Learning & Deep Learning
+
 💻 Learning Python, SQL, Data Analysis, and AI  
 🚀 Data Science & Analytics Intern at DevelopersHub Corporation  
 💡 Interested in AI, Data Science, and Educational Technology
