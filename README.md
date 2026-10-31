@@ -48,7 +48,6 @@ I work with data to find patterns, build models, and create tools that are simpl
 - Deep Learning fundamentals
 - Data visualization and dashboards
 - Building my developer portfolio
-
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## Let's Connect
