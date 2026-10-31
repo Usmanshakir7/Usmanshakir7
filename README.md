@@ -69,7 +69,7 @@ class Usman:
     <td width="50%" valign="top">
 
 ### 🧠 RecallAI
-[Write one line about what RecallAI does.]
+[RecallAI is an AI-powered meeting assistant that summarizes conversations, highlights key decisions, extracts action items, and helps users find meeting information..]
 
 🔗 [View Repository](https://github.com/Usmanshakir7) <!-- TODO: replace with the exact RecallAI repo link -->
 
